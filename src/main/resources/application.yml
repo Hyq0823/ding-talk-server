@@ -1,0 +1,8 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: ding-talk-server
+
+ding-talk-url: https://oapi.dingtalk.com/robot/send?access_token=229ae977ddb23ac6bdce257ef2cb8938942d254f1a7a9e5397dc1afa47e4b9ad
